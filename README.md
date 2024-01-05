@@ -1,4 +1,4 @@
-# laravel-vue-demo
+# Darkside Assesment
 
 Darkside Customer app with Authentication using REST API + Laravel Sanctum.
 
